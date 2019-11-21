@@ -1,1 +1,1 @@
-web: java -class target/classes/com/shyngys/bot/App.class
+web: java -jar target/dependency/bot-04.jar
